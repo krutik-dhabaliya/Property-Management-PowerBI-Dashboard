@@ -209,9 +209,6 @@ To explore the dashboard locally:
 
 ## 📈 Results & Conclusion
 
-
-## 📈 Results & Conclusion
-
 The **Property Management Analytics Dashboard** transforms property data into an interactive report for monitoring financial, sales, geographic, and property-level performance.
 
 The dashboard provides stakeholders with a centralized view of key KPIs while enabling deeper analysis through dynamic filters and parameters.
